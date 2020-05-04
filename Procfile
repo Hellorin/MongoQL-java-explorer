@@ -1,0 +1,1 @@
+web: java -jar target/mongoql-java-explorer-1.0.0.jar -DmongodbUserPwd=$mongodbUserPwd -DembeddedMongoShell=true
