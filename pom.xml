@@ -19,7 +19,7 @@
 
     <properties>
         <java.version>1.8</java.version>
-        <mongoql-springboot-maven-plugin.version>1.3.0</mongoql-springboot-maven-plugin.version>
+        <mongoql-springboot-maven-plugin.version>1.3.1</mongoql-springboot-maven-plugin.version>
 
         <mongodbUserPwd />
         <generation-skipped>false</generation-skipped>
