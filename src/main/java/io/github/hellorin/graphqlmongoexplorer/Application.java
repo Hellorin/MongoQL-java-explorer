@@ -15,7 +15,7 @@ public class Application {
     @GetMapping("/")
     @CrossOrigin
     public void homeRedirect(HttpServletResponse response) throws IOException {
-        response.sendRedirect("https://hellorin.github.io/MongoQL-kotlin-explorer/");
+        response.sendRedirect("https://hellorin.github.io/MongoQL-java-explorer/");
     }
 
     public static void main(String[] args) {
