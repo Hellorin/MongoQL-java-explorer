@@ -1,5 +1,5 @@
 # MongoQL-java-explorer
-[![Build Status](https://travis-ci.com/Hellorin/MongoQL-kotlin-explorer.svg?token=PJDEGMQ6qhHd76soTotT&branch=master)](https://travis-ci.com/Hellorin/MongoQL-kotlin-explorer)
+[![Build Status](https://travis-ci.com/Hellorin/MongoQL-java-explorer.svg?branch=master)](https://travis-ci.com/Hellorin/MongoQL-java-explorer)
 
 ## Purpose
 Show usage of the MongoQL-springboot-maven-plugin to be able to easily explore MongoQL data through a GraphQL interface
